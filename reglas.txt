@@ -1,1 +1,8 @@
 reglas
+solicitar pullrequest
+archivo modificado
+
+modificacion local
+
+
+
